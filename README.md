@@ -5,13 +5,13 @@
 
 
 ### Project Title
-bikeshare data python project
+post your work on github
 
 ### Description
-Describe what your project is about and what it does
+There are five sections in this document template. Each section includes a table with the instructions for you to complete in your local and remote repository and space to copy and paste the git commands. Once you complete each task, you will be required to include or copy and paste the git command in that corresponding table row.
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.

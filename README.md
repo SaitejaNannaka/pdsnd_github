@@ -14,5 +14,7 @@ There are five sections in this document template. Each section includes a table
 bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+It's important to give proper credit to udacity.
+this is the path to success.
+learning to code is learning to create and innovate.
+thanks udacity fantastic program that brought a lot of light into my life.
